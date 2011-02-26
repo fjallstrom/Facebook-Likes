@@ -2,7 +2,7 @@
 /*
 free php class by peder fjällström, 20100905
 www.earthpeople.se / peder@earthpeople.se
-this is so cool that it doesn't even have a license
+this is so free that it doesn't even have a license
 
 
 # create new instance of like class
